@@ -1,5 +1,4 @@
-# OpenAI Gym Game using Intelligent Reflex Agents #
-
+OpenAI Gym Game using Intelligent Reflex Agents -
 Implemented two simple reflex agents for Atari game called "Berzerk".
 
 To run the game, install OpenAI's gym library.
